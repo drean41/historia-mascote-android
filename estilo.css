@@ -109,12 +109,13 @@ main strong {
     color: var(--cor6);
 }
 main img {
-    width: 100;
+    width: 100%;
     display: block;
     margin: auto;
 }
 main img.pq {
-    max-width: 50%;
+    max-width: 70%;
+    margin-bottom: 25px;
 }
 div.video {
     background-color: var(--cor6);
@@ -145,6 +146,15 @@ aside > h3 {
 aside > ul {
     columns: 2;
     list-style: '\2714\00A0';
+    margin: 0px 0px 0px -25px;
+    max-width: 700px;
+    
+}
+aside > ul > li {
+    font-size: 0.8em;
+}
+aside > ul > li.coluna2 {
+    margin-left: 9px;
 }
 footer {
     background-color: var(--cor5);
