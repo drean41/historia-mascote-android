@@ -17,8 +17,8 @@
     --cor4: #0CB336;
     --cor5: #07661F;
     --cor6: #13351c;
-    --fonte-idroid: 'idroid', cursive;
-    --fonte-destaque: 'Bebas Neue', 'cursive';
+    --fonte-idroid: 'idroid', 'cursive';
+    --fonte-destaque: 'Bebas Neue', Arial;
     --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
 }
 body {
