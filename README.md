@@ -1,6 +1,6 @@
 # Sobre Projeto:
 
-Site que conta a história do mascote do Android para desenvolver habilidades no CSS.
+Site que conta a história do mascote do Android para desenvolver habilidades no CSS. Feito no curso de HTML e CSS do Curso em Vídeo.
 
 [Para visualizar o projeto com github pages](https://drean41.github.io/historia-mascote-android/)
 
